@@ -1,4 +1,15 @@
-### Hi there 👋
+![](./working.gif)
+
+### Hello friend 🫶
+
+🛠️ I love building cool projects 
+
+🥋 and doing Jiu-jitsu 
+
+🌎 Lets make the world a better place
+ 
+👨‍💻 one commit at a time 
+
 
 <!--
 **sdatok/sdatok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
